@@ -6,8 +6,8 @@ This Power BI dashboard provides a comprehensive analysis of Uber trip data to u
 - <a href = "https://github.com/Ruthramoorthi30/Uber-Trip-Analysis-Using-Power-BI/blob/main/Location%20Table.xlsx" > Dataset - Location </a>
 
 # Dashboard Overview Analysis
-- < a href = "https://github.com/Ruthramoorthi30/Uber-Trip-Analysis-Using-Power-BI/blob/main/Overview%20analysis.png"> View Overview Analysis Dashboard</a>
+- <a href = "https://github.com/Ruthramoorthi30/Uber-Trip-Analysis-Using-Power-BI/blob/main/Overview%20analysis.png"> View Overview Analysis Dashboard</a>
 # Dashboard Time Analysis
-- < a href = "https://github.com/Ruthramoorthi30/Uber-Trip-Analysis-Using-Power-BI/blob/main/Time%20Analysis.png"> View Time Analysis Dashboard</a>
+- <a href = "https://github.com/Ruthramoorthi30/Uber-Trip-Analysis-Using-Power-BI/blob/main/Time%20Analysis.png"> View Time Analysis Dashboard</a>
 # Dashboard Details Analysis
-- < a href = "https://github.com/Ruthramoorthi30/Uber-Trip-Analysis-Using-Power-BI/blob/main/Details%20Analysis.png"> View Details Analysis Dashboard</a>
+- <a href = "https://github.com/Ruthramoorthi30/Uber-Trip-Analysis-Using-Power-BI/blob/main/Details%20Analysis.png"> View Details Analysis Dashboard</a>
